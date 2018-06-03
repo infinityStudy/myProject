@@ -6,6 +6,8 @@ Write by infinityStudy, 2018-06-01
 
 [ ] Numpy
 
+- [Numpy의 random 함수 정리](https://github.com/infinityStudy/testProject/blob/master/organizing-at-note/03(python)Numpy_random.ipynb)
+
 [ ] Pandas
 
 [ ] KoNLPy
